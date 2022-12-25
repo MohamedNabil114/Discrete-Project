@@ -1,0 +1,8 @@
+C:\Users\a\source\repos\broject1\bin\Debug\broject1.exe.config
+C:\Users\a\source\repos\broject1\bin\Debug\broject1.exe
+C:\Users\a\source\repos\broject1\bin\Debug\broject1.pdb
+C:\Users\a\source\repos\broject1\obj\Debug\broject1.csproj.AssemblyReference.cache
+C:\Users\a\source\repos\broject1\obj\Debug\broject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\a\source\repos\broject1\obj\Debug\broject1.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\broject1\obj\Debug\broject1.exe
+C:\Users\a\source\repos\broject1\obj\Debug\broject1.pdb
